@@ -1,0 +1,1 @@
+My home DNS won't allow me to connect MONGODB so I was unable to link them exactly. The project should follow the code he does and I can't find anything else wrong with it. There are a few original commits by him on there, only because he didn't change anything.
